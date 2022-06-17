@@ -60,3 +60,6 @@ li {
   padding: 0px 15px;
   font-weight: 500;
 }
+a {
+  text-decoration: none;
+}
